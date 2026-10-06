@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local opencode config (contains Stitch MCP API key — do not commit)
+opencode.json
